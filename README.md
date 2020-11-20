@@ -1,3 +1,4 @@
 # My Business Card!
 
-Experiementing with CSS & JavaScript to build a business card for my portfolio page.
+Building a Business Card with **pure HTML and CSS.**
+
